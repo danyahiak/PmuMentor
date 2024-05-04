@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: Georgia, serif;
+    font-family: Times New Roman, serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,10 +13,10 @@ body {
 
 .container {
     text-align: center;
-    padding: 20px;
+    padding: 25px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 25px;
     border-bottom: 1px solid #ddd;
 }
 
@@ -51,7 +51,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    background-color: #ED6C27;
+    background-color: #6632a8;
     color: #fff;
     text-decoration: none;
 }
